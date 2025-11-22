@@ -12,5 +12,7 @@ while True:
         #El except es para dicho caso en el que el usuario proporcione un dato incorrecto, me imprime datos incorrectos.
     except  ValueError: 
         print("Dato Incorrecto ingrese un valor valido") 
+    finally: 
+        print("Finalizo el programa")
 
 
