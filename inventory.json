@@ -1,1 +1,17 @@
-{}
+{
+    "1": {
+        "name": "pan",
+        "price": 200,
+        "quantity": 20
+    },
+    "2": {
+        "name": "arroz",
+        "price": 4000,
+        "quantity": 6
+    },
+    "3": {
+        "name": "huevos",
+        "price": 12000,
+        "quantity": 12
+    }
+}
